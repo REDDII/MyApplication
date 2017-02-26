@@ -1,6 +1,6 @@
 package com.example.denis.myapplication;
 //N'oubliez pas de déclarer le bon package dans lequel se trouve le fichier !
-// nouvelle version II
+// nouvelle version IV
 
 import android.app.Activity;
 
